@@ -1,0 +1,1 @@
+token = "7488139606:AAF_BAzoV9kRuTSGbwM0bl-NlvTldjSCnXQ"  # Замените на ваш токен
